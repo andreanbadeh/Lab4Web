@@ -289,7 +289,7 @@ versi css
 
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/Cuplikan%20layar%202025-10-14%20111044.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ef9a76e65a1cf824797069b797c223762f997b17/image/Screenshot%20from%202025-10-15%2018-51-47.png)
 
 6. Mengatur Layout Main dan Sidebar
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
