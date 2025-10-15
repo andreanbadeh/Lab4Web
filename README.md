@@ -446,9 +446,9 @@ Hasilnya :
 
 SELESAI.
 
-SOAL :
+SOAL & PERTANYAAN
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/e5bada50c537c9cb8aab323c78be291fb0a12a7b/Cuplikan%20layar%202025-10-14%20232155.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ee66f33312e4c6480391a35560c5a04ac87c429b/image/Screenshot%20from%202025-10-15%2019-22-47.png)
 
 JAWABAN :
 
