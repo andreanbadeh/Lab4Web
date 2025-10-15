@@ -386,13 +386,63 @@ Hasilnya :
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
 Menambahkan Elemen lainnya pada Main Content
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231603.png)
+untuk html
+```
+<article class="entry">
+                <h2>First featurette heading.</h2>
+                <img src="https://dummyimage.com/150/7b8a70/fff.png" alt="">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, 
+                    iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, 
+                    vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
+                </p>
+            </article>
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231747.png)
+            <hr class="divider" />
+
+            <article class="entry">
+                <h2>Second featurette heading.</h2>
+                <img src="https://dummyimage.com/150/7b8a70/fff.png" alt="" class="right-img">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum lorem elit, 
+                    iaculis in nisl volutpat, malesuada tincidunt arcu. Proin in leo fringilla, 
+                    vestibulum mi porta, faucibus felis. Integer pharetra est nunc, nec pretium nunc pretium ac.
+                </p>
+            </article>
+        </section>
+```
+
+untuk css
+```
+.divider {
+  border: 0;
+  border-top: 1px solid #eeeeee;
+  margin: 40px 0;
+}
+
+.entry {
+  margin: 15px 0;
+}
+
+.entry h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.entry p {
+  line-height: 25px;
+}
+
+.entry img {
+  float: left;
+  border-radius: 5px;
+  margin-right: 15px;
+}
+```
 
 Hasilnya : 
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231821.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ba5deef57ede5718c8f1d7efafd2c0600be66c17/image/Screenshot%20from%202025-10-15%2019-18-52.png)
 
 SELESAI.
 
