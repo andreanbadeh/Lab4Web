@@ -111,8 +111,42 @@ Hasilnya :
 # Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut. Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
 home.html, dan file css dengan nama style.css.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Layout Sederhana</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="container">
+    </div>
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/5f3944988f030323f09a8714b1b6d22d2ff210ee/Cuplikan%20layar%202025-10-14%20100955.png)
+    <header>
+        <h1>Layout Sederhana</h1>
+    </header>
+
+    <nav>
+        <a href="home.html" class="active">Home</a>
+        <a href="artikel.html">Artikel</a>
+        <a href="about.html">About</a>
+        <a href="kontak.html">Kontak</a>
+    </nav>
+
+    <section id="hero"></section>
+    <section id="wrapper">
+        <section id="main"></section>
+        <aside id="sidebar"></aside>
+    </section>
+
+    <footer>
+        <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+    </footer>
+</body>
+</html>
+```
 
 Hasilnya :
 
