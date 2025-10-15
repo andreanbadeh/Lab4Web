@@ -187,7 +187,7 @@ header h1 {
 
 Hasilnya : 
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/767151efd3afce590d0588c422f4d87f713c6938/Cuplikan%20layar%202025-10-14%20102943.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/4e3db7a48d59e9f14cbed425b7d25e9b08bbbd66/image/Screenshot%20from%202025-10-15%2018-33-31.png)
 
 4. Membuat Navigasi
 Kemudian selanjutnya mengatur navigasi.
