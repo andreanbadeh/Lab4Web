@@ -57,8 +57,52 @@ Hasilnya :
 3. Mengatur Clearfix Element
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
 Tambahkan element div lainnya seteleah div3 seperti berikut.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Element</title>
+    <style>
+        div {
+            float: left;
+            padding: 10px;
+        }
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/67418252b5a7c3d799d7598e15ba6cc53148a847/code2.png)
+        .div1 {
+            background: red;
+        }
+
+        .div2 {
+            background: yellow;
+        }
+
+        .div3 {
+            background: green;
+        }
+
+        .div4 {
+            background-color: blue;
+            clear: left;
+            float: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Box Element</h1>
+    </header>
+
+    <section>
+        <div class="div1">Div 1</div>
+        <div class="div2">Div 2</div>
+        <div class="div3">Div 3</div>
+        <div class="div4">Div 4</div>
+    </section>
+</body>
+</html>
+```
 
 Hasilnya :
 
