@@ -248,10 +248,44 @@ Hasilnya :
 
 5. Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+versi html
+```
+    <section id="hero">
+        <h1>Hello World!</h1>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu.
+            Proin in leo fringilla, vestibulum mi porta, faucibus felis.
+            Integer pharetra est nunc, nec pretium nunc pretium ac.
+        </p>
+        <a href="home.html">Learn more &raquo;</a>
+    </section>
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/code4html.png)
+    <footer>
+        <p>&copy; 2021 - Universitas Pelita Bangsa</p>
+    </footer>
+```
+versi css
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/code4css.png)
+```
+#hero {
+    background-color: #e4e4e5;
+    padding: 20px;
+}
+
+#hero h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+    color: #333;
+}
+
+#hero p {
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 25px;
+    color: #555;
+}
+```
 
 Hasilnya :
 
