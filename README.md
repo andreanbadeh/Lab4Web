@@ -244,7 +244,7 @@ nav a:hover {
 
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/75989d3deaecfd8262c9fab283925b90f886f5fa/Cuplikan%20layar%202025-10-14%20103338.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/428ee82915cc0bfea78d75fdbb9851dd0a302710/image/Screenshot%20from%202025-10-15%2018-36-26.png)
 
 5. Membuat Hero Panel.
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
