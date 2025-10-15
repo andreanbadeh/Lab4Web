@@ -52,7 +52,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 ```
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/38721d6822de0d4391592f756a25d0754e00a2b1/Cuplikan%20layar%202025-10-14%20095940.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/bbb3fe82e45aa8f7e7731ad5ee152b00a160942c/image/Screenshot%20from%202025-10-15%2018-22-27.png)
 
 3. Mengatur Clearfix Element
 Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
