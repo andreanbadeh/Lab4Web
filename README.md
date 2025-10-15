@@ -295,14 +295,36 @@ Hasilnya :
 Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
 7. Membuat Sidebar Widget
 Kemudian selanjutnya menambahkan element lain dalam sidebar.
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20230740.png)
+untuk html nya
+```
+<aside class="sidebar">
+            <div class="widget">
+                <h3 class="widget-title">Widget Header</h3>
+                <ul>
+                    <li><a href="#">Widget Link</a></li>
+                    <li><a href="#">Widget Link</a></li>
+                    <li><a href="#">Widget Link</a></li>
+                    <li><a href="#">Widget Link</a></li>
+                    <li><a href="#">Widget Link</a></li>
+                </ul>
+            </div>
+            <div class="widget">
+                <h3 class="widget-title">Widget Text</h3>
+                <p>
+                    Vestibulum lorem elit, iaculis in nisl volutpat, malesuada tincidunt arcu. 
+                    Proin in leo fringilla, vestibulum mi porta, faucibus felis. Integer pharetra est nunc, 
+                    nec pretium nunc pretium ac.
+                </p>
+            </div>
+        </aside>
+```
+untuk css
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20231023.png)
 
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20231114.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/96c02a20477779c41ff78d9e02ebf957f9cd938a/image/Screenshot%20from%202025-10-15%2019-00-59.png)
 
 8. Mengatur Footer
 Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
