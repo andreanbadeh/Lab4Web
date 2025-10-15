@@ -150,7 +150,7 @@ home.html, dan file css dengan nama style.css.
 
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/5f3944988f030323f09a8714b1b6d22d2ff210ee/Cuplikan%20layar%202025-10-14%20101007.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/93874f8e0f443e369ce96af819816f7c16863193/image/Screenshot%20from%202025-10-15%2018-29-22.png)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 
