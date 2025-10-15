@@ -377,8 +377,7 @@ footer {
     padding: 20px;
     color: #eee;
 }
-
-
+```
 Hasilnya :
 
 ![gambar](https://github.com/andreanbadeh/Lab4Web/blob/96c02a20477779c41ff78d9e02ebf957f9cd938a/image/Screenshot%20from%202025-10-15%2019-00-59.png)
