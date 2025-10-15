@@ -451,11 +451,69 @@ SOAL & PERTANYAAN
 ![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ee66f33312e4c6480391a35560c5a04ac87c429b/image/Screenshot%20from%202025-10-15%2019-22-47.png)
 
 JAWABAN :
+```
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Layout Sederhana</title>
+  <link rel="stylesheet" href="style4.css">
+</head>
+<body>
+  <header>
+    <h1>Hubungi Saya</h1>
+  </header>
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/code5html.png)
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Artikel</a>
+    <a href="#">About</a>
+    <a href="#" class="active">Kontak</a>
+  </nav>
+
+  <section id="intro">
+    <h2>Ingin Terhubung?</h2>
+    <p>Silakan isi formulir berikut untuk mengirimkan pesan, pertanyaan, atau kolaborasi proyek!</p>
+  </section>
+
+  <section id="kontak">
+    <div class="kontak-container">
+      <div class="formulir">
+        <h3>Formulir Kontak</h3>
+        <form action="#" method="post">
+          <label>Nama Lengkap:</label>
+          <input type="text" placeholder="Masukkan nama Anda">
+
+          <label>Email:</label>
+          <input type="email" placeholder="Masukkan email aktif">
+
+          <label>Pesan:</label>
+          <textarea placeholder="Tulis pesan Anda di sini..."></textarea>
+
+          <button type="submit">Kirim Sekarang</button>
+        </form>
+      </div>
+
+      <div class="informasi">
+        <h3>Informasi Kontak</h3>
+        <p><strong>Email:</strong> <a href="mailto:info@pelitabangsa.ac.id">info@pelitabangsa.ac.id</a></p>
+        <p><strong>Telepon:</strong> (021) 899-8999</p>
+        <p><strong>Alamat:</strong> Jl. Inspeksi Kalimalang No.9, Bekasi</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 - Universitas Pelita Bangsa | Created by ANDREAN PUTRA ARYA</p>
+  </footer>
+</body>
+</html>
+```
+
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/code6html.png)
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/Cuplikan%20layar%202025-10-14%20233255.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/388b1c099a5969cceddeab011a829463cd2fc488/image/Screenshot%20from%202025-10-15%2019-35-18.png)
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/Cuplikan%20layar%202025-10-14%20233306.png)
