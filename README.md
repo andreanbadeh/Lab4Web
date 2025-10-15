@@ -106,7 +106,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 
 Hasilnya :
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/67418252b5a7c3d799d7598e15ba6cc53148a847/Cuplikan%20layar%202025-10-14%20100506.png)
+![gambar](https://github.com/andreanbadeh/Lab4Web/blob/a36089045570fb88111e6576aa8349f0d85e9515/image/Screenshot%20from%202025-10-15%2018-26-07.png)
 
 # Membuat Layout Sederhana
 Kita akan membuat layout web sederhana seperti gambar berikut. Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
