@@ -50,3 +50,95 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 </body>
 </html>
 ```
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/38721d6822de0d4391592f756a25d0754e00a2b1/Cuplikan%20layar%202025-10-14%20095940.png)
+
+3. Mengatur Clearfix Element
+Clearfix digunakan untuk mengatur element setelah float element. Property clear digunakan untuk mengaturnya.
+Tambahkan element div lainnya seteleah div3 seperti berikut.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/67418252b5a7c3d799d7598e15ba6cc53148a847/code2.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/67418252b5a7c3d799d7598e15ba6cc53148a847/Cuplikan%20layar%202025-10-14%20100506.png)
+
+# Membuat Layout Sederhana
+Kita akan membuat layout web sederhana seperti gambar berikut. Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
+home.html, dan file css dengan nama style.css.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/5f3944988f030323f09a8714b1b6d22d2ff210ee/Cuplikan%20layar%202025-10-14%20100955.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/5f3944988f030323f09a8714b1b6d22d2ff210ee/Cuplikan%20layar%202025-10-14%20101007.png)
+
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/767151efd3afce590d0588c422f4d87f713c6938/Cuplikan%20layar%202025-10-14%20102817.png)
+
+Hasilnya : 
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/767151efd3afce590d0588c422f4d87f713c6938/Cuplikan%20layar%202025-10-14%20102943.png)
+
+4. Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/75989d3deaecfd8262c9fab283925b90f886f5fa/code3css.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/75989d3deaecfd8262c9fab283925b90f886f5fa/Cuplikan%20layar%202025-10-14%20103338.png)
+
+5. Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/code4html.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/code4css.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/beb1e9efd51652b1a8eeb2d39f4997da3137dafc/Cuplikan%20layar%202025-10-14%20111044.png)
+
+6. Mengatur Layout Main dan Sidebar
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+7. Membuat Sidebar Widget
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20230740.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20231023.png)
+
+Hasilnya :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20231114.png)
+
+8. Mengatur Footer
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+Menambahkan Elemen lainnya pada Main Content
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231603.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231747.png)
+
+Hasilnya : 
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/12d6fbb00063df042e3215f1ea8ee16bc1cd05a0/Cuplikan%20layar%202025-10-14%20231821.png)
+
+SELESAI.
+
+SOAL :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/e5bada50c537c9cb8aab323c78be291fb0a12a7b/Cuplikan%20layar%202025-10-14%20232155.png)
+
+JAWABAN :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/code5html.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/code6html.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/Cuplikan%20layar%202025-10-14%20233255.png)
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/Cuplikan%20layar%202025-10-14%20233306.png)
