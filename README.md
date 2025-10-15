@@ -451,6 +451,8 @@ SOAL & PERTANYAAN
 ![gambar](https://github.com/andreanbadeh/Lab4Web/blob/ee66f33312e4c6480391a35560c5a04ac87c429b/image/Screenshot%20from%202025-10-15%2019-22-47.png)
 
 JAWABAN :
+
+1
 ```
 <!DOCTYPE html>
 <html lang="id">
@@ -510,10 +512,8 @@ JAWABAN :
 </body>
 </html>
 ```
-
-
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/code6html.png)
-
 ![gambar](https://github.com/andreanbadeh/Lab4Web/blob/388b1c099a5969cceddeab011a829463cd2fc488/image/Screenshot%20from%202025-10-15%2019-35-18.png)
+
+2
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/c032fbecf6226ebd0f19445b167db11328e33795/Cuplikan%20layar%202025-10-14%20233306.png)
