@@ -319,8 +319,65 @@ untuk html nya
         </aside>
 ```
 untuk css
+```
+#wrapper {
+    margin: 0;
+}
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/6f13a67b7e6e222ac4065429adcfb80290b0c8d4/Cuplikan%20layar%202025-10-14%20231023.png)
+#main {
+    float: right;
+    width: 640px;
+    padding: 20px;
+}
+
+#sidebar {
+    float: right;
+    width: 260px;
+    padding: 20px;
+}
+
+.widget-box {
+    border: 1px solid #eee;
+    margin-bottom: 20px;
+}
+
+.widget-box .title {
+    padding: 10px 16px;
+    background-color: #428bca;
+    color: #fff;
+}
+
+.widget-box ul {
+    list-style-type: none;
+}
+
+.widget-box li {
+    border-bottom: 1px solid #eee;
+}
+
+.widget-box li a {
+    padding: 10px 16px;
+    color: #333;
+    display: block;
+    text-decoration: none;
+}
+
+.widget-box li:hover a {
+    background-color: #eee;
+}
+
+.widget-box p {
+    padding: 15px;
+    line-height: 25px;
+}
+
+footer {
+    clear: both;
+    background-color: #d1d1d1;
+    padding: 20px;
+    color: #eee;
+}
+
 
 Hasilnya :
 
