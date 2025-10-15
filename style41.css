@@ -1,4 +1,3 @@
-/* RESET DASAR */
 * {
   margin: 0;
   padding: 0;
@@ -6,7 +5,6 @@
   font-family: "Segoe UI", Arial, sans-serif;
 }
 
-/* HEADER */
 header {
   padding: 30px 60px 10px;
   background-color: #fff;
@@ -18,7 +16,6 @@ header h1 {
   color: #b5b5b5;
 }
 
-/* NAVBAR */
 nav {
   background-color: #1f5ca9;
 }
@@ -42,7 +39,6 @@ nav ul li a.active {
   background-color: #144782;
 }
 
-/* INTRO SECTION */
 .intro {
   background-color: #e1e1e1;
   padding: 35px 60px;
@@ -62,7 +58,6 @@ nav ul li a.active {
   max-width: 850px;
 }
 
-/* MAIN CONTENT */
 .main-content {
   display: flex;
   justify-content: space-between;
@@ -97,7 +92,6 @@ nav ul li a.active {
   line-height: 1.7;
 }
 
-/* SIDEBAR KANAN */
 .right {
   width: 35%;
 }
@@ -116,7 +110,6 @@ nav ul li a.active {
   line-height: 1.6;
 }
 
-/* FOOTER */
 footer {
   background-color: #f1f1f1;
   padding: 15px 60px;
