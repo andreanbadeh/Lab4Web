@@ -153,8 +153,37 @@ Hasilnya :
 ![gambar](https://github.com/andreanbadeh/Lab4Web/blob/93874f8e0f443e369ce96af819816f7c16863193/image/Screenshot%20from%202025-10-15%2018-29-22.png)
 
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
+```
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@0,300;0,700;1,300&display=swap');
 
-![gambar](https://raw.githubusercontent.com/M-Rakha/Lab4Web/767151efd3afce590d0588c422f4d87f713c6938/Cuplikan%20layar%202025-10-14%20102817.png)
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #5a5a5a;
+}
+
+#container {
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 0 0 1em #cccccc;
+}
+
+header {
+    padding: 20px;
+}
+
+header h1 {
+    margin: 20px 10px;
+    color: #b5b5b5;
+}
+```
 
 Hasilnya : 
 
